@@ -4,7 +4,7 @@ I denna övning får ni en färdig applikation som hämtar data från ett API so
 
 Uppgiften går ut på att ni ska bygga vidare på den existerande kodbasen.
 
-1. När man har klickat på ett user-kort så kommer man till en detaljsida som visare lite mer information om den valda user. Där finns även knapp som det står "Back to user list" på. Skapa logik för att komma tillbaka till listan med users när man trycker på den knappen.
+1. När man har klickat på ett user-kort så kommer man till en detaljsida som visar lite mer information om den valda user. Där finns även knapp som det står "Back to user list" på. Skapa logik för att komma tillbaka till listan med users när man trycker på den knappen.
 
 2. Lägg till HTML i `createUserPage()`-metoden för att kunna visa poster _( posts )_ på detaljsidan som tillhör avändaren i fråga. För att detta ska funka så behöves det även en ytterligare hämtning från API:et samt lite DOM-manipulation för att dölja och visa posterna.
 
